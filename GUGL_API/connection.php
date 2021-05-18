@@ -2,7 +2,7 @@
 
 $username = "sharte14";
 
-$pw = "V6pkqYtk1GbwsrMh";
+$pw = "**************";
 $host = "sharte14.lampt.eeecs.qub.ac.uk";
 
 
